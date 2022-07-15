@@ -36,6 +36,7 @@ export default function Home() {
         <h1 className={styles.title}>
           Welcome to <a href="">Hunter</a>
         </h1>
+        <Image src="/images/coder.webp" alt="Logo" width={400} height={300}/>
 
         <p className={styles.description}>
           Learn code form <span className='ytube'>youtube</span>  !!!!

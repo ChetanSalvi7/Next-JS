@@ -1,7 +1,14 @@
 .blogtitle{
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
     margin: 20px 0;
     padding: 5px;
+}
+.title1{
+    margin: 20px 0;
+    padding: 5px 0;
+    display: flex;
+    justify-content: center;
 }
